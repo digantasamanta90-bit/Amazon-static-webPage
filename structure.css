@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#div1{
+    height: 95px;
+    width: 100%;
+    background-color: yellow;
+    
+}
+
+#div2{
+    height: 1500px;
+    width: 100%;
+    background-color: pink;
+}
+#div7{
+     height: 1500px;
+    width: 100%;
+    background-color: rgb(205, 21, 52);
+}
+#div3{
+    height: 500px;
+    width: 98%;
+    background-color: aqua;
+    margin-left: 1%;
+}
+#bg{
+   height: 500px;
+    width: 100%;
+    background-color: aqua;
+    overflow-y: 200px ;
+    position: absolute;
+    z-index: 2;
+}
+#div4{
+    height: 35px;
+    width: 98%;
+    background-color: white;
+    margin-left: 1%;
+    margin-top: 200px;
+}
+#div5{
+    height: 1220px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: blueviolet;
+}
+#div6{
+    height: 400px;
+    width: 100%;
+    background-color: blue;
+}
+/* <a id="a2" href="#">Conditions of Use</a>
+            <a id="a2" href="#">Privacy Notice</a>
+            <a  id="a2"href="#">Consumer Health Data Privacy Disclosure</a>
+            <a id="a2" href="#">Your Ads Privacy Choices<i class="fa-solid fa-check"></i></a> */
+
+            /* <p><a id="a2" href="#">Conditions of Use</a></p>
+            <p><a id="a2" href="#">Privacy Notice</a></p>
+            <p><a  id="a2"href="#">Consumer Health Data Privacy Disclosure</a></p>
+            <p> <a id="a2" href="#">Your Ads Privacy Choices<i class="fa-solid fa-check"></i></a></p> */
+            
+
+            /* <div><a id="a2" href="#">Conditions of Use</a></div>
+            <div><a id="a2" href="#">Privacy Notice</a></div>
+            <div><a  id="a2"href="#">Consumer Health Data Privacy Disclosure</a></div>
+            <div> <a id="a2" href="#">Your Ads Privacy Choices<i class="fa-solid fa-check"></i></a></div> */
